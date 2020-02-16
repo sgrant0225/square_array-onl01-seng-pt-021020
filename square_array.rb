@@ -26,4 +26,4 @@ def square_array(numbers)
    num += 1
 end
 end
-new_numbers
+
